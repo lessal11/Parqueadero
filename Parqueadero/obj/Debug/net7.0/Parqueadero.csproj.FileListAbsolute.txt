@@ -1,0 +1,14 @@
+E:\DOCUMENTOS C\SALOME\UCE\Semestre 6\MARCOS II\Trabajos Indivuduales\Control de Versiones\Parqueadero\Parqueadero\bin\Debug\net7.0\Parqueadero.exe
+E:\DOCUMENTOS C\SALOME\UCE\Semestre 6\MARCOS II\Trabajos Indivuduales\Control de Versiones\Parqueadero\Parqueadero\bin\Debug\net7.0\Parqueadero.deps.json
+E:\DOCUMENTOS C\SALOME\UCE\Semestre 6\MARCOS II\Trabajos Indivuduales\Control de Versiones\Parqueadero\Parqueadero\bin\Debug\net7.0\Parqueadero.runtimeconfig.json
+E:\DOCUMENTOS C\SALOME\UCE\Semestre 6\MARCOS II\Trabajos Indivuduales\Control de Versiones\Parqueadero\Parqueadero\bin\Debug\net7.0\Parqueadero.dll
+E:\DOCUMENTOS C\SALOME\UCE\Semestre 6\MARCOS II\Trabajos Indivuduales\Control de Versiones\Parqueadero\Parqueadero\bin\Debug\net7.0\Parqueadero.pdb
+E:\DOCUMENTOS C\SALOME\UCE\Semestre 6\MARCOS II\Trabajos Indivuduales\Control de Versiones\Parqueadero\Parqueadero\obj\Debug\net7.0\Parqueadero.GeneratedMSBuildEditorConfig.editorconfig
+E:\DOCUMENTOS C\SALOME\UCE\Semestre 6\MARCOS II\Trabajos Indivuduales\Control de Versiones\Parqueadero\Parqueadero\obj\Debug\net7.0\Parqueadero.AssemblyInfoInputs.cache
+E:\DOCUMENTOS C\SALOME\UCE\Semestre 6\MARCOS II\Trabajos Indivuduales\Control de Versiones\Parqueadero\Parqueadero\obj\Debug\net7.0\Parqueadero.AssemblyInfo.cs
+E:\DOCUMENTOS C\SALOME\UCE\Semestre 6\MARCOS II\Trabajos Indivuduales\Control de Versiones\Parqueadero\Parqueadero\obj\Debug\net7.0\Parqueadero.csproj.CoreCompileInputs.cache
+E:\DOCUMENTOS C\SALOME\UCE\Semestre 6\MARCOS II\Trabajos Indivuduales\Control de Versiones\Parqueadero\Parqueadero\obj\Debug\net7.0\Parqueadero.dll
+E:\DOCUMENTOS C\SALOME\UCE\Semestre 6\MARCOS II\Trabajos Indivuduales\Control de Versiones\Parqueadero\Parqueadero\obj\Debug\net7.0\refint\Parqueadero.dll
+E:\DOCUMENTOS C\SALOME\UCE\Semestre 6\MARCOS II\Trabajos Indivuduales\Control de Versiones\Parqueadero\Parqueadero\obj\Debug\net7.0\Parqueadero.pdb
+E:\DOCUMENTOS C\SALOME\UCE\Semestre 6\MARCOS II\Trabajos Indivuduales\Control de Versiones\Parqueadero\Parqueadero\obj\Debug\net7.0\Parqueadero.genruntimeconfig.cache
+E:\DOCUMENTOS C\SALOME\UCE\Semestre 6\MARCOS II\Trabajos Indivuduales\Control de Versiones\Parqueadero\Parqueadero\obj\Debug\net7.0\ref\Parqueadero.dll
